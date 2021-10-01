@@ -1,5 +1,5 @@
 Flask
 Flask-RESTful
 pandas
-sklearn==1.0
+scikit-learn==1.0
 uwsgi
